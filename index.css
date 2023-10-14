@@ -1,0 +1,17 @@
+body{
+    background-color:cyan;
+
+}
+h1{
+    color:red;
+    background-color: black;
+    font-style:oblique;
+}
+p{
+    color:yellow;
+    background-color: darkorchid;
+}
+b{
+    color:whitesmoke;
+    background-color:blue;
+}
